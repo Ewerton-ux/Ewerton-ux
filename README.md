@@ -1,5 +1,3 @@
-[![Portfólio](https://raw.githubusercontent.com/Ewerton-ux/Ewerton-ux/main/banner.png)](https://ewerton-ux.github.io/Ewerton./)
-
 
 ### Cloud & Backend Developer
 

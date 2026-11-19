@@ -12,8 +12,8 @@ Graduando em Engenharia de Software, focado em **Cloud Computing**, automação,
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="48" alt="LinkedIn" />
 </a>
 <a href="https://ewerton-ux.github.io/Ewerton./">
-  <img src="https://img.icons8.com/fluency/96/folder-invoices.png" height="48" alt="Portfólio" />
+  <img src="https://img.icons8.com/fluency/96/domain.png" height="48" alt="Portfólio" />
 </a>
 
 ### Idiomas
-`Português — Nativo` · `Inglês — B1`
+`Português — Nativo` · `Espanhol — B1`  · `Inglês — A2` 

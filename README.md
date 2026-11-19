@@ -1,16 +1,19 @@
-## Hi there 👋
+### Cloud & Backend Developer
 
-<!--
-**Ewerton-ux/Ewerton-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em Engenharia de Software, focado em **Cloud Computing**, automação, containers e desenvolvimento de aplicações, com interesse em esportes e tecnologia.
 
-Here are some ideas to get you started:
+**Contato:** ewertonsantana891@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack Principal (Cloud & Dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=aws,python,docker,js,linux,git)](https://skillicons.dev)
+
+### Conecte-se
+<a href="https://www.linkedin.com/in/ewerton-sousa2406">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="48" alt="LinkedIn" />
+</a>
+<a href="https://ewerton-ux.github.io/Ewerton./">
+  <img src="https://img.icons8.com/fluency/96/folder-invoices.png" height="48" alt="Portfólio" />
+</a>
+
+### Idiomas
+`Português — Nativo` · `Inglês — B1`

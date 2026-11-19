@@ -1,3 +1,6 @@
+[![Portfólio](https://raw.githubusercontent.com/Ewerton-ux/Ewerton-ux/main/banner.png)](https://ewerton-ux.github.io/Ewerton./)
+
+
 ### Cloud & Backend Developer
 
 Graduando em Engenharia de Software, focado em **Cloud Computing**, automação, containers e desenvolvimento de aplicações, com interesse em esportes e tecnologia.
